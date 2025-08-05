@@ -1,0 +1,247 @@
+Destination,Budget,Type of Trip,Mode of Transport,Days
+Manali,20000,Adventure,Road,7
+Goa,30000,Relaxation,Flight,5
+Jaipur,15000,Cultural,Road,3
+Kerala,40000,Honeymoon,Flight,7
+Ladakh,50000,Adventure,Road,7
+Andaman,70000,Relaxation,Flight,7
+Darjeeling,25000,Adventure,Road,3
+Shimla,22000,Relaxation,Road,10
+Rishikesh,18000,Adventure,Road,8
+Agra,14000,Cultural,Road,7
+Varanasi,17000,Cultural,Road,5
+Mysore,28000,Cultural,Road,4
+Ooty,26000,Relaxation,Road,6
+Udaipur,32000,Cultural,Road,7
+Amritsar,20000,Cultural,Road,2
+Kanyakumari,45000,Relaxation,Flight,1
+Pondicherry,30000,Relaxation,Flight,3
+Srinagar,40000,Adventure,Road,2
+Ranthambore,22000,Adventure,Road,3
+Kolkata,16000,Cultural,Road,5
+Chennai,25000,Cultural,Road,5
+Bangalore,27000,Cultural,Road,6
+Hyderabad,35000,Cultural,Road,6
+Mumbai,38000,Relaxation,Road,9
+Delhi,30000,Cultural,Road,10
+Coorg,24000,Relaxation,Road,23
+Hampi,34000,Cultural,Road,2
+Jaisalmer,20000,Cultural,Road,2
+Kaziranga,42000,Adventure,Road,2
+Shillong,30000,Adventure,Road,2
+Puri,15000,Cultural,Road,2
+Rameshwaram,29000,Relaxation,Road,2
+Haridwar,55000,Adventure,Road,2
+Chikmagalur,45000,Adventure,Road,2
+Leh,38000,Relaxation,Road,2
+Gulmarg,30000,Cultural,Road,2
+Alleppey,27000,Relaxation,Road,2
+Mahabalipuram,18000,Relaxation,Road,2
+Nainital,22000,Relaxation,Road,2
+Mount Abu,80000,Relaxation,Road,3
+Lakshadweep,30000,Relaxation,Flight,3
+Kodaikanal,28000,Relaxation,Road,2
+Lonavala,26000,Relaxation,Road,5
+,,,,
+Mussoorie,30000,Relaxation,Road,5
+,,,,
+Gangtok,15000,Adventure,Road,3
+Ahmedabad,20000,Cultural,Road,5
+Vadodara,25000,Cultural,Road,4
+Surat,23000,Cultural,Road,6
+Aurangabad,27000,Relaxation,Road,8
+Pune,24000,Cultural,Road,5
+Chandigarh,32000,Cultural,Road,6
+Bhubaneswar,22000,Cultural,Road,8
+Patna,21000,Cultural,Road,6
+Lucknow,30000,Cultural,Road,5
+Dehradun,25000,Cultural,Road,4
+Tirupati,29000,Cultural,Road,2
+Madurai,23000,Cultural,Road,2
+,,,,
+Ajanta,26000,Cultural,Road,6
+Ellora,29000,Adventure,Road,7
+Diu,28000,Relaxation,Road,8
+Dwarka,26000,Cultural,Road,2
+Ranakpur,32000,Adventure,Road,6
+Khajuraho,33000,Adventure,Road,4
+Konark,25000,Adventure,Road,2
+Kanha,37000,Cultural,Road,6
+Bandhavgarh,30000,Relaxation,Road,5
+Kutch,60000,Relaxation,Road,8
+Ziro,40000,Relaxation,Road,5
+Majuli,37000,Relaxation,Road,5
+Spiti Valley,20000,Relaxation,Road,3
+Auli,31000,Relaxation,Road,4
+McLeod Ganj,29000,Relaxation,Road,8
+Pahalgam,40000,Cultural,Road,6
+Ranikhet,30000,Relaxation,Road,4
+Lolegaon,27000,Relaxation,Road,3
+Meghalaya,50000,Relaxation,Road,3
+Cherrapunji,40000,Relaxation,Road,4
+Dharamshala,18000,Relaxation,Road,3
+Mokokchung,31000,Relaxation,Road,4
+Dandeli,26000,Relaxation,Road,6
+Coimbatore,30000,Relaxation,Road,2
+Rajgir,22000,Cultural,Road,2
+Nalanda,28000,Cultural,Road,3
+Somnath,40000,Cultural,Road,3
+Junagadh,27000,Cultural,Road,5
+Bhuj,30000,Cultural,Road,4
+Sundarbans,45000,Cultural,Road,4
+Bikaner,31000,Cultural,Road,3
+Pushkar,27000,Relaxation,Road,5
+Palitana,23000,Relaxation,Road,4
+Haldwani,18000,Relaxation,Road,3
+Almora,20000,Relaxation,Road,5
+Pithoragarh,27000,Relaxation,Road,4
+,,,,
+Srisailam,10000,Cultural,Road,3
+Charminar,5000,Historical,Road,1
+Salarjung Museum,5000,Historical,Road,1
+Birla Mandir,5000,Historical,Road,1
+Surendrapuram,8000,Cultural,Road,1
+Yadagiri Gutta,5000,Cultural,Road,1
+Badrachalam,5000,Cultural,Road,2
+,,,,
+Jogulamba,6000,Cultural,Road,2
+Somashila,7000,Cultural,Road,2
+Vemulavada,4500,Cultural,Road,2
+Warangal Fort,3000,Historical,Road,1
+Medak Curch,2500,Cultural,Road,1
+Swarnagiri,5000,Cultural,Road,1
+Shiridi,15000,Cultural,Road,3
+Nasik,25000,Cultural,Road,4
+Jaganath,15000,Cultural,Road,3
+Bhimshankar,25000,Cultural,Road,4
+Gandikota,15000,Historical,Road,2
+Belum Caves,3500,Adventure,Road,1
+Ananthagiri Hills,5000,Hill Station,Road,2
+Ramoji Film City,6000,Relaxation,Road,2
+Chirala Beach,5000,Beach,Road,1
+Durggama Temple,5000,Cultural,Road,1
+Papikondalu,8000,Nature,Road,3
+Bhavani Island,2000,Nature,Road,1
+Undavalli Caves,2000,Historical,Road,1
+Panakala Narashimha ,2000,Cultural,Road,1
+Shimhachalam,5000,Cultural,Road,1
+Rk valley,5000,Nature,Road,1
+Araku,10000,Nature,Road,1
+Lambasangi,8000,Nature,Road,2
+Vanjangi,10000,Nature,Road,2
+Nandi Hills,15000,Hill Station,Road,2
+Lepakshi,8000,Historical,Road,2
+,,,,
+,,,,
+Mysuru Palace,10000,Historical,Road,2
+Murudeswar,10000,Cultural,Road,2
+Guna Caves,20000,Adventure,Road,2
+Gokarna,5000,Beach,Road,1
+Kochi,10000,Cultural,Road,2
+Udipi,12000,Historical,Road,1
+Munnar,12000,Nature,Road,2
+,,,,
+Thrishur,5500,Cultural,Road,3
+Thanjavur,7000,Historical,Road,2
+Kanchi,5500,Cultural,Road,2
+Kanipakam,6500,Cultural,Road,1
+Shabarimala,15000,Cultural,Road,2
+Ananthapadbanaba Temple,10000,Cultural,Road,3
+Naintal,15000,Nature,Road,3
+,,,,
+,,,,
+Siripuram,15000,Cultural,Road,3
+Vellore Fort,5000,Historical,Road,2
+Kedarnath,25000,Cultural,Road,7
+Badrinath,30000,Cultural,Road,7
+,,,,
+Pratap Ghad,10000,Nature,Road,3
+Arunachalam,8500,Cultural,Road,2
+Kasi,10000,Cultural,Road,5
+Mumbai Gateway,10000,Historical,Road,3
+Rishi Konda,5000,Nature,Road,1
+Dhanush Kodi,8000,Nature,Road,3
+,,,,
+,,,,
+Somanadh,12000,Cultural,Road,5
+Amarnath,15000,Cultural,Road,5
+,,,,
+Kashmir,30000,Honeymoon,Road,5
+,,,,
+Maldives,35000,Nature,Road,7
+Horsely Hills,15000,Hill Station,Road,3
+Pulicat lake,3000,Nature,Road,1
+Kolleru,2500,Nature,Road,1
+kondapalli,3000,Historical,Road,1
+Dhraksharama,3500,Cultural,Road,3
+Ahobilam,3000,Cultural,Road,1
+Dindi,3500,Cultural,Road,3
+Dwaraka Thirumala,5000,Cultural,Road,2
+Ettipothula,2500,Historical,Road,1
+Gandikshetram,3000,Cultural,Road,1
+Idupulapaya,3500,Historical,Road,1
+Mahanandhi,4000,Cultural,Road,1
+Ontimitta,3500,Cultural,Road,1
+,,,,
+Ajanta Caves,10000,Adventure,Road,3
+Hanging Gardeb,8500,Nature,Flight,3
+Vaishno Devi,15000,Cultural,Road,5
+Victoria Memorial,10000,Historical,Road,5
+Tipu Sultan Mosque,12000,Cultural,Flight,3
+Boanical Garden,10000,Nature,Road,4
+Chilka Lake,8000,Nature,Road,4
+Lingarag Temple,7500,Cultural,Road,3
+City Palace,10000,Historical,Road,5
+Hawa Mahal,12000,Historical,Road,3
+Jaigarh Fort,13500,Historical,Road,4
+Jal Mahal,10000,Historical,Road,5
+Albert Hall Museum,9500,Historical,Road,5
+Island Palace,10000,Historical,Road,5
+Pushkar Lake,8500,Nature,Road,5
+Ajmer Dargah,15000,Cultural,Road,5
+Monsoon Palace,12500,Historical,Road,5
+Dilwara Temple,13000,Cultural,Road,5
+Amer Fort,12500,Historical,Road,6
+Pichola Lake,8500,Nature,Road,2
+Panch Mahal,9500,Historical,Road,3
+Benaras Ghat,10000,Nature,Road,4
+Gwalior Fort,12500,Historical,Road,3
+Marble Rocks,12500,Nature,Road,3
+Brindaban Garden,5500,Nature,Road,4
+Minakshi Temple,6500,Cultural,Road,2
+Golkonda,5000,Historical,Road,1
+Jain Temple,7500,Cultural,Road,3
+Vembanad Lake,8000,Nature,Road,4
+,,,,
+Barren Island,7500,Nature,Road,5
+Bhimbetka,10000,Nature,Road,2
+Brahmaputra River,5000,Nature,Road,3
+Chirotke Waterfalls,8500,Nature,Road,4
+Brahadeeswara Temple,6500,Cultural,Road,5
+Dalma Wildlife,10000,Nature,Road,4
+Patratu,12000,Nature,Road,2
+Dausa,15000,Historical,Road,1
+Dholavira,12500,Historical,Road,2
+Divar Island,8500,Nature,Road,3
+Gopalpur,12500,Beach,Road,4
+Hemis,10000,Adventure,Road,5
+Imphl Valley,12500,Nature,Road,6
+Kailasa Temple,13000,Cultural,Road,7
+Kanatal,85000,Nature,Road,8
+Kushinagar,10000,Historical,Road,3
+Lachung,85000,Honeymoon,Road,2
+Manas National Park,9500,Historical,Road,4
+Mandu,12000,Historical,Road,3
+,,,,
+Neemrana Fort,9500,Historical,Road,3
+Nubra Valley,10000,Nature,Road,4
+Orchaa,8600,Historical,Road,5
+Panchamarhi,7500,Nature,Road,5
+Panipat,9500,Historical,Road,4
+Patan,6500,Historical,Road,3
+Patna Sahib,10000,Historical,Road,4
+Ponmudi,9500,Nature,Road,5
+,,,,
+Statue of Unity,8500,Historical,Road,3
+Zanskar,9500,Nature,Road,4
+Ziro valley,10000,Nature,Road,5
